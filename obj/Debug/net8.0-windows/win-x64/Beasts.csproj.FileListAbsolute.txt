@@ -1,0 +1,10 @@
+Z:\Users\meisdy\Desktop\poe\ExileApi-Compiled-3.25.0.5\Plugins\Temp\Beasts-main\Beasts.deps.json
+Z:\Users\meisdy\Desktop\poe\ExileApi-Compiled-3.25.0.5\Plugins\Temp\Beasts-main\Beasts.dll
+Z:\Users\meisdy\Desktop\poe\ExileApi-Compiled-3.25.0.5\Plugins\Source\Beasts-main\obj\Debug\net8.0-windows\win-x64\Beasts.csproj.AssemblyReference.cache
+Z:\Users\meisdy\Desktop\poe\ExileApi-Compiled-3.25.0.5\Plugins\Source\Beasts-main\obj\Debug\net8.0-windows\win-x64\Beasts.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Users\meisdy\Desktop\poe\ExileApi-Compiled-3.25.0.5\Plugins\Source\Beasts-main\obj\Debug\net8.0-windows\win-x64\Beasts.AssemblyInfoInputs.cache
+Z:\Users\meisdy\Desktop\poe\ExileApi-Compiled-3.25.0.5\Plugins\Source\Beasts-main\obj\Debug\net8.0-windows\win-x64\Beasts.AssemblyInfo.cs
+Z:\Users\meisdy\Desktop\poe\ExileApi-Compiled-3.25.0.5\Plugins\Source\Beasts-main\obj\Debug\net8.0-windows\win-x64\Beasts.csproj.CoreCompileInputs.cache
+Z:\Users\meisdy\Desktop\poe\ExileApi-Compiled-3.25.0.5\Plugins\Source\Beasts-main\obj\Debug\net8.0-windows\win-x64\Beasts.dll
+Z:\Users\meisdy\Desktop\poe\ExileApi-Compiled-3.25.0.5\Plugins\Source\Beasts-main\obj\Debug\net8.0-windows\win-x64\refint\Beasts.dll
+Z:\Users\meisdy\Desktop\poe\ExileApi-Compiled-3.25.0.5\Plugins\Source\Beasts-main\obj\Debug\net8.0-windows\win-x64\ref\Beasts.dll
